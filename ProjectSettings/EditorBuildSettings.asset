@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: a07b440f25abe084b87cd1396077ebe8
+  - enabled: 1
+    path: Assets/Scenes/P3Tower.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/P4Tower.unity
+    guid: 4af6751b2957e114bbcedacd68c0d7be
+  - enabled: 1
+    path: Assets/Scenes/P5Tower.unity
+    guid: 414b7aa1c2f2e874e9fa2253a33c40d7
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 43ff4c2374969fe49932c973ef163c81, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 100d21a92b3a9714f9743570585d9d34,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: e8e36371b987e09479e5de1da062945a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 7a4beffd453544c409a35b6bdf192a99, type: 2}
+  m_UseUCBPForAssetBundles: 0

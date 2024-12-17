@@ -1,0 +1,5 @@
+D:/game/My'sHEART/.utmp/RelWithDebInfo/656f1x71/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/game/My'sHEART/.utmp/RelWithDebInfo/656f1x71/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/game/My'sHEART/.utmp/RelWithDebInfo/656f1x71/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/game/My'sHEART/.utmp/RelWithDebInfo/656f1x71/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/game/My'sHEART/.utmp/RelWithDebInfo/656f1x71/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
