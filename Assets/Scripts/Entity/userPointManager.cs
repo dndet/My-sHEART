@@ -51,9 +51,9 @@ public static class userPointManager
         new items("restore_HP", "Restore HP", 25, "+ 10 HP"),
         new items("restore_%HP", "Restore % HP", 34, "+ 50 %HP"),
         new items("upGradeShiel", "Restore Shiel", 48, "+ 5 Shiel"),
-        /*new items("restore_HP", "Restore HP", 11, "+ 2 HP"),
-        new items("restore_HP", "Restore HP", 33, "+ 2 HP"),
-        new items("restore_HP", "Restore HP", 92, "+ 2 HP")*/
+        //new items("restore_HP", "Restore HP", 11, "+ 2 HP"),
+        //new items("restore_HP", "Restore HP", 33, "+ 2 HP"),
+        //new items("restore_HP", "Restore HP", 92, "+ 2 HP")
     };
 
     public static string toJsonCode(userPoint userPoint)
